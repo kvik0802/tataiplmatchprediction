@@ -1,0 +1,5 @@
+﻿myvenv/
+ipl-win-predictor-hf.zip
+__pycache__/
+*.joblib
+*.gz
